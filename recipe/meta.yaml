@@ -1,5 +1,5 @@
 {% set name = "autopage" %}
-{% set version = "0.5.1" %}
+{% set version = "0.5.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/autopage-{{ version }}.tar.gz
-  sha256: 01be3ee61bb714e9090fcc5c10f4cf546c396331c620c6ae50a2321b28ed3199
+  sha256: 826996d74c5aa9f4b6916195547312ac6384bac3810b8517063f293248257b72
 
 build:
   number: 0

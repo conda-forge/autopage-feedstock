@@ -1,11 +1,11 @@
-About autopage
-==============
+About autopage-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/autopage-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/zaneb/autopage
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/autopage-feedstock/blob/main/LICENSE.txt)
 
 Summary: A library to provide automatic paging for console output
 
